@@ -37,3 +37,23 @@ For this part, I trained and compared two different ensemble classifiers to pred
 
 ##### Click [here](https://github.com/atefajmal27/Machine_Learning/blob/main/credit_risk_ensemble.ipynb) to see the code and more details.
 
+
+### Libraries and/or Modules used:
+numpy
+pandas
+pathlib
+collections
+imblearn.combine
+imblearn.metrics
+imblearn.ensemble
+imblearn.over_sampling
+imblearn.under_sampling
+imblearn.combine
+sklearn.ensemble
+sklearn.model_selection
+sklearn.preprocessing
+sklearn.metrics
+sklearn.linear_model
+sklearn.linear_model
+
+
