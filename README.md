@@ -15,8 +15,12 @@ Steps:
   2. Oversample the data using the Naive Random Oversampler and SMOTE algorithms.
   3. Undersample the data using the Cluster Centroids algorithm.
   4. Over- and under-sample using a combination SMOTEENN algorithm.
-
-
+ 
+For each of the above, I:
+  1. Trained a logistic regression classifier from sklearn.linear_model using the resampled data.
+  2. Calculated the balanced accuracy score from sklearn.metrics.
+  3. Calculated the confusion matrix from sklearn.metrics.
+  4. Printed the imbalanced classification report from imblearn.metrics.
 
 
 2. Ensemble Learning
