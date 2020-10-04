@@ -22,6 +22,8 @@ For each of the above, I:
   3. Calculated the confusion matrix from sklearn.metrics.
   4. Printed the imbalanced classification report from imblearn.metrics.
 
+#### Click [here](https://github.com/atefajmal27/Machine_Learning/blob/main/Resampling.ipynb) to see the code and more details.
+
 
 ### 2. Ensemble Learning 
 For this part, I trained and compared two different ensemble classifiers to predict loan risk and evaluate each model. I used the Balanced Random Forest Classifier and the Easy Ensemble Classifier. For each model, I:
@@ -32,3 +34,6 @@ For this part, I trained and compared two different ensemble classifiers to pred
   4. Printed the confusion matrix from sklearn.metrics.
   5. Generated a classification report using the imbalanced_classification_report from imbalanced learn.
   6. Printed the feature importance sorted in descending order along with the feature score.
+
+#### CLICK ON [Account_Analysis.ipynb](https://github.com/atefajmal27/Account_and_Retirement_Analysis/blob/master/Account_Analysis.ipynb) FOR ACCOUNT ANALYSIS
+
