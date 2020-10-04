@@ -54,6 +54,6 @@ sklearn.model_selection <br/>
 sklearn.preprocessing <br/>
 sklearn.metrics <br/>
 sklearn.linear_model <br/>
-sklearn.linear_model <br/>
+sklearn.linear_model
 
 
