@@ -23,6 +23,7 @@ For each of the above, I:
   3. Calculated the confusion matrix from sklearn.metrics.
   4. Printed the imbalanced classification report from imblearn.metrics.
 
+
 2. Ensemble Learning: For this part, I trained and compared two different ensemble classifiers to predict loan risk and evaluate each model. I used the Balanced Random Forest Classifier and the Easy Ensemble Classifier.
 
 For each model, I:
