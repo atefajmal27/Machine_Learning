@@ -7,9 +7,8 @@ Auto loans, mortgages, student loans, debt consolidation ... these are just a fe
 ## My Solution 
 To solve this issue, I built and evaluated several machine-learning models to predict credit risk using free data from LendingClub. Credit risk is an inherently imbalanced classification problem (the number of good loans is much larger than the number of at-risk loans), so I needed to employ different techniques for training and evaluating models with imbalanced classes. I have used the imbalanced-learn and Scikit-learn libraries to build and evaluate models using the two following techniques:
 
-1. Resampling: I used the imbalanced learn library to resample the LendingClub data and build and evaluate logistic regression classifiers using the resampled data.
-
-Steps:
+### 1. Resampling
+I used the imbalanced learn library to resample the LendingClub data and build and evaluate logistic regression classifiers using the resampled data. Steps:
 
   1. Load the Lending Club data, split the data into training and testing sets, and scale the features data.
   2. Oversample the data using the Naive Random Oversampler and SMOTE algorithms.
@@ -24,9 +23,8 @@ For each of the above, I:
   4. Printed the imbalanced classification report from imblearn.metrics.
 
 
-2. Ensemble Learning: For this part, I trained and compared two different ensemble classifiers to predict loan risk and evaluate each model. I used the Balanced Random Forest Classifier and the Easy Ensemble Classifier.
-
-For each model, I:
+### 2. Ensemble Learning 
+For this part, I trained and compared two different ensemble classifiers to predict loan risk and evaluate each model. I used the Balanced Random Forest Classifier and the Easy Ensemble Classifier. For each model, I:
 
   1. Loaded the Lending Club data, split the data into training and testing sets, and scaled the features data.
   2. Trained the modeled using the quarterly data from LendingClub.
