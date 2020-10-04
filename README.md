@@ -17,6 +17,7 @@ Steps:
   4. Over- and under-sample using a combination SMOTEENN algorithm.
  
 For each of the above, I:
+
   1. Trained a logistic regression classifier from sklearn.linear_model using the resampled data.
   2. Calculated the balanced accuracy score from sklearn.metrics.
   3. Calculated the confusion matrix from sklearn.metrics.
