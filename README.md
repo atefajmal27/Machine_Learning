@@ -1,2 +1,2 @@
-# Machine_Learning
-Used machine-learning models to predict credit risk using free data from LendingClub.
+# Machine Learning- Risk Analysis
+![Credit Risk](Images/credit-risk.jpg)
