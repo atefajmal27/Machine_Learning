@@ -40,20 +40,20 @@ For this part, I trained and compared two different ensemble classifiers to pred
 
 ### Libraries and/or Modules used:
 numpy <br/>
-pandas
-pathlib
-collections
-imblearn.combine
-imblearn.metrics
-imblearn.ensemble
-imblearn.over_sampling
-imblearn.under_sampling
-imblearn.combine
-sklearn.ensemble
-sklearn.model_selection
-sklearn.preprocessing
-sklearn.metrics
-sklearn.linear_model
-sklearn.linear_model
+pandas <br/>
+pathlib <br/>
+collections <br/>
+imblearn.combine <br/>
+imblearn.metrics <br/>
+imblearn.ensemble <br/>
+imblearn.over_sampling <br/>
+imblearn.under_sampling <br/>
+imblearn.combine <br/>
+sklearn.ensemble <br/>
+sklearn.model_selection <br/>
+sklearn.preprocessing <br/>
+sklearn.metrics <br/>
+sklearn.linear_model <br/>
+sklearn.linear_model <br/>
 
 
