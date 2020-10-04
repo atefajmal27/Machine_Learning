@@ -39,7 +39,7 @@ For this part, I trained and compared two different ensemble classifiers to pred
 
 
 ### Libraries and/or Modules used:
-numpy
+numpy <br/>
 pandas
 pathlib
 collections
